@@ -1,0 +1,15 @@
+*.class
+*.classpath
+*.project
+*.iml
+
+targer/
+bin/
+out/
+.idea/
+.settings/
+
+
+*.war
+
+*.jar
